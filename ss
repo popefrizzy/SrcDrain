@@ -1,0 +1,1 @@
+            <a id="connectButton" style="background:#1d0259;color:rgb(248, 243, 243); margin-left:50%; width:300px; height:15px"><h1 style="font-size: 17px; margin-left:18%;">Connect Wallet to Claim</h1></a>
